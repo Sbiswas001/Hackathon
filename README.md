@@ -548,7 +548,7 @@ When deploying to production:
 ---
 
 <p align="center">
-  Made with ❤️ by the Stellar Stash Team
+  Made with ❤️ by the Silicon Servents
 </p>
 
 <p align="center">
